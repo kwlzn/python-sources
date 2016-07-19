@@ -13,6 +13,9 @@ TRACKED_VERSIONS="
 2.7.7
 2.7.8
 2.7.9
+2.7.10
+2.7.11
+2.7.12
 3.0
 3.0.1
 3.1
@@ -42,6 +45,7 @@ TRACKED_VERSIONS="
 3.4.4
 3.5.0
 3.5.1
+3.5.2
 "
 
 for VER in $TRACKED_VERSIONS; do
